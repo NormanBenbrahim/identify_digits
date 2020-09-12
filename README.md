@@ -2,6 +2,10 @@
 
 Based on the following tutorial: https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/
 
+# Tutorial data
+
+* http://yann.lecun.com/exdb/mnist/
+
 # Tips from the article:
 
 Neural networks is a special type of machine learning (ML) algorithm. So as every ML algorithm, it follows the usual ML workflow of data preprocessing, model building and model evaluation. For the sake of conciseness, I have listed out a TO DO list of how to approach a Neural Network problem.
